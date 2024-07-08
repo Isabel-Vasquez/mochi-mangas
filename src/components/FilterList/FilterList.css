@@ -1,0 +1,29 @@
+.filter-section {
+    margin-bottom: 20px;
+  }
+  
+  .filter-section h6 {
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .filter-section ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .filter-section li {
+    margin-bottom: 8px;
+  }
+  
+  .filter-item {
+    cursor: pointer;
+    color: #191919;
+    text-decoration: none;
+  }
+  
+  .filter-item:hover {
+    color: #AF50E5;
+  }
+  

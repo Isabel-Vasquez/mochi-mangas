@@ -1,0 +1,12 @@
+{
+    "categorias": [
+      { "id": 1, "nombre": "Shonen" },
+      { "id": 2, "nombre": "Josei" },
+      { "id": 3, "nombre": "thriller"},
+      { "id": 4, "nombre": "Seinen" },
+      { "id": 5, "nombre": "Terror" },
+      { "id": 6, "nombre": "Yuri" },
+      { "id": 7, "nombre": "Shojo" }
+    ]
+  }
+  

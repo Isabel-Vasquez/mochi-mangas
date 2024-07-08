@@ -1,0 +1,37 @@
+.purchase-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.purchase-item__img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.purchase-item__details {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1;
+}
+
+.purchase-item__name,
+.purchase-item__price,
+.purchase-item__quantity,
+.purchase-item__total {
+  margin: 0;
+}
+
+.purchase-item__name {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.purchase-item__price,
+.purchase-item__quantity,
+.purchase-item__total {
+  font-size: 0.875rem;
+  color: #666;
+}

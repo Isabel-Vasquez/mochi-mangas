@@ -1,0 +1,47 @@
+/* src/components/FormRegister/FormRegister.css */
+.form-container {
+  margin-top: 50px;
+}
+
+.form-container h1 {
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+
+.form-container .form-group {
+  margin-bottom: 20px;
+}
+
+.form-container .form-control {
+  background-color: #f0f0f0;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.form-container h1 {
+  color: #333;
+}
+
+.form-container .form-register-btn {
+  background-color: #333;
+  color: #fff;
+  border-radius: 0;
+  padding: 10px 0;
+  font-size: 16px;
+  font-weight: bold;
+  width: 100%;
+}
+
+.button-form-container {
+  background-color: #af50e5;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.button-form-container:hover {
+  background-color: #9933cc;
+}

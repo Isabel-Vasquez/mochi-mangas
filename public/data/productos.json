@@ -1,0 +1,104 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "titulo": "Naruto",
+      "descripcion": "La historia sigue a Naruto Uzumaki, un joven ninja que busca reconocimiento y sueña con convertirse en Hokage.",
+      "precio": "1500",
+      "categoria_id": "1",
+      "url_img": "https://i.pinimg.com/564x/3f/3b/fe/3f3bfe56a521f53daa52470ee80c7f33.jpg",
+      "usuario_id": 1,
+      "fecha_publicacion": "2024-07-01T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "titulo": "One Piece",
+      "descripcion": "Las aventuras de Monkey D. Luffy y su tripulación en la búsqueda del One Piece.",
+      "precio": "1400",
+      "categoria_id": "1",
+      "url_img": "https://comicvine.gamespot.com/a/uploads/scale_small/11158/111586527/9151765-107.jpg",
+      "usuario_id": 2,
+      "fecha_publicacion": "2024-07-02T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "titulo": "Nana",
+      "descripcion": "Dos jóvenes mujeres con el mismo nombre pero diferentes perspectivas de la vida se convierten en amigas cercanas.",
+      "precio": "1600",
+      "categoria_id": "2",
+      "url_img": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/04/nana-volume-5-cover-art-depicting-hachi-sitting-at-a-cafe-table-enjoying-a-drink-while-nana-stands-to-the-side.jpg?q=70&fit=crop&w=750&dpr=1",
+      "usuario_id": 1,
+      "fecha_publicacion": "2024-07-03T00:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "titulo": "Paradise Kiss",
+      "descripcion": "Una historia de amor y moda en el mundo de la alta costura.",
+      "precio": "1450",
+      "categoria_id": "2",
+      "url_img": "https://kodoku.cl/cdn/shop/products/732bfe2ebce046ebbc818621a8571296_490x.progressive.jpg?v=1662481527",
+      "usuario_id": 2,
+      "fecha_publicacion": "2024-07-04T00:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "titulo": "Death Note",
+      "descripcion": "Light Yagami encuentra un cuaderno que le permite matar a cualquier persona cuyo nombre escriba en él.",
+      "precio": "1700",
+      "categoria_id": "3",
+      "url_img": "https://comicvine.gamespot.com/a/uploads/scale_small/6/66303/3053563-cvr9781421518886_9781421518886_hr.jpg",
+      "usuario_id": 1,
+      "fecha_publicacion": "2024-07-05T00:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "titulo": "Monster",
+      "descripcion": "La historia de un doctor que busca redimirse mientras persigue a un asesino que salvó.",
+      "precio": "1600",
+      "categoria_id": "3",
+      "url_img": "https://miro.medium.com/v2/resize:fit:1000/0*1e6yM6oCRfezJVSl.jpg",
+      "usuario_id": 2,
+      "fecha_publicacion": "2024-07-06T00:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "titulo": "Berserk",
+      "descripcion": "La oscura historia de Guts, un guerrero en busca de venganza.",
+      "precio": "1800",
+      "categoria_id": "4",
+      "url_img": "https://i.pinimg.com/564x/be/26/92/be26925f501e3b39aaa468f96db73888.jpg",
+      "usuario_id": 1,
+      "fecha_publicacion": "2024-07-07T00:00:00.000Z"
+    },
+    {
+      "id": 8,
+      "titulo": "Tokyo Ghoul",
+      "descripcion": "Ken Kaneki se transforma en mitad ghoul y debe aprender a vivir en la sociedad ghoul.",
+      "precio": "1500",
+      "categoria_id": "5",
+      "url_img": "https://i.pinimg.com/564x/09/8f/ce/098fcec50c1db1cf45322e0c6960af74.jpg",
+      "usuario_id": 2,
+      "fecha_publicacion": "2024-07-08T00:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "titulo": "Watashi no Oshi wa Akuyaku Reijou",
+      "descripcion": "La oficinista, esclava de su trabajo, Oohashi Rei se reencarna y despierta en el cuerpo de la protagonista de su juego otome favorito",
+      "precio": "1400",
+      "categoria_id": "6",
+      "url_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Nq5lyYs2GQxtTjKHJNq2XWN0W7fFfWwX8A&s",
+      "usuario_id": 1,
+      "fecha_publicacion": "2024-07-09T00:00:00.000Z"
+    },
+    {
+      "id": 10,
+      "titulo": "Fruits Basket",
+      "descripcion": "Una chica huérfana descubre que su nueva familia se convierte en animales del zodiaco chino.",
+      "precio": "1300",
+      "categoria_id": "7",
+      "url_img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442161482i/271199.jpg",
+      "usuario_id": 2,
+      "fecha_publicacion": "2024-07-10T00:00:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+.profile__details {
+  margin-top: 20px;
+}
+
+.profile__item {
+  margin-bottom: 10px;
+}
+
+.profile__item-label {
+  font-weight: bold;
+  color: #333;
+}
+
+.profile__item-input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #e9e9e9;
+}
+
+.profile__form-title {
+  font-size: 1.5rem;
+  color: #333;
+  font-weight: 500;
+}
+
+.profile__form-button {
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #af50e5;
+  color: #fff;
+  border: none;
+  border-radius: 0.25rem;
+  transition: background-color 0.3s ease;
+}
+
+.profile__form-button:hover {
+  background-color: #9933cc;
+}

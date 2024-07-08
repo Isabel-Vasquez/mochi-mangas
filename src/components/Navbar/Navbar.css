@@ -1,0 +1,26 @@
+/* Styles for Navbar */
+.navbar {
+  background-color: #333;
+  padding: 10px 20px;
+}
+.navbar .fa-shopping-cart {
+  color: white;
+}
+
+.navbar .btn-link {
+  color: white;
+}
+.nav-link {
+  position: relative;
+}
+
+.badge {
+  position: absolute;
+  top: 0;
+  right: 0;
+  transform: translate(50%, -50%);
+  background-color: red;
+  color: white;
+  padding: 0.25em 0.5em;
+  border-radius: 50%;
+}

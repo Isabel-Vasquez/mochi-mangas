@@ -1,0 +1,25 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Catalina",
+      "apellido": "Perez",
+      "email": "catalina.perez@example.com",
+      "password": "password123"
+    },
+    {
+      "id": 2,
+      "nombre": "Josefa",
+      "apellido": "Gomez",
+      "email": "josefa.gomez@example.com",
+      "password": "password456"
+    },
+    {
+      "id": 3,
+      "nombre": "Kamila",
+      "apellido": "perez",
+      "email": "kamila.perez@example.com",
+      "password": "password789"
+    }
+  ]
+}

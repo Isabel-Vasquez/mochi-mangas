@@ -1,0 +1,35 @@
+.purchase-history__page {
+  display: flex;
+  flex: 1;
+}
+
+.purchase-history__container {
+  padding: 20px;
+  min-height: calc(100vh - 56px);
+  flex-grow: 1;
+}
+
+.purchase-history__title {
+  font-size: 1.5rem;
+  color: #333;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  .purchase-history__page {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+    border-right: none;
+    border-bottom: 1px solid #dee2e6;
+  }
+
+  .purchase-history__container {
+    margin-left: 0;
+  }
+}

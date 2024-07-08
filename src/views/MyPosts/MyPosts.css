@@ -1,0 +1,35 @@
+.my-posts__page {
+  display: flex;
+  flex: 1;
+}
+
+.my-posts__container {
+  padding: 20px;
+  min-height: calc(100vh - 56px);
+  flex-grow: 1;
+}
+
+.my-posts__title {
+  font-size: 1.5rem;
+  color: #333;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  .my-posts__page {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+    border-right: none;
+    border-bottom: 1px solid #dee2e6;
+  }
+
+  .my-posts__container {
+    margin-left: 0;
+  }
+}

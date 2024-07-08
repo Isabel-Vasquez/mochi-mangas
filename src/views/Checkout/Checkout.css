@@ -1,0 +1,12 @@
+.checkout {
+  background-color: #fafafa;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.checkout__title {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 20px;
+  text-align: center;
+}

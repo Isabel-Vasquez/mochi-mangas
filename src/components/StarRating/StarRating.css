@@ -1,0 +1,17 @@
+.star-rating {
+  display: flex;
+}
+
+.star-rating .fa-star {
+  font-size: 24px;
+  color: #ffd700; /* Color dorado para estrellas llenas */
+  margin-right: 5px;
+}
+
+.star-rating .fa-star.filled {
+  color: #ffd700; /* Color dorado para estrellas llenas */
+}
+
+.star-rating .fa-star:not(.filled) {
+  color: #ddd; /* Color gris para estrellas vacías */
+}

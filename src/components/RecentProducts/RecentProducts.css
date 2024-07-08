@@ -1,0 +1,16 @@
+.recent-products-section {
+  padding: 20px;
+  margin: 0 100px;
+}
+
+.recent-products-list {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.recent-product-item {
+  flex: 1 1 calc(25% - 20px);
+  margin: 10px;
+  max-width: calc(25% - 20px);
+}

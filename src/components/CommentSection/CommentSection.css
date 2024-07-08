@@ -1,0 +1,28 @@
+.comment-section {
+  margin-top: 2rem;
+  text-align: left;
+}
+
+.comment {
+  background-color: #f9f9f9;
+  padding: 1rem;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+}
+
+.add-comment {
+  margin-top: 2rem;
+}
+
+.button-comment {
+  background-color: #af50e5;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.button-comment:hover {
+  background-color: #9933cc;
+}
